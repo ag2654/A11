@@ -201,7 +201,7 @@ footer p {
 	padding: 1em 0;
 }
 
-@media only screen and (max-width: 826px) {
+@media only screen and (max-width: 748px) {
 	section h1 {
 		font-size: 125%
 	}
@@ -217,7 +217,7 @@ footer p {
 }
 
 
-@media only screen and (max-width: 826px) {
+@media only screen and (max-width: 682px) {
 	header img {
 		float: none;
 	}
@@ -258,7 +258,7 @@ footer p {
 	}
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 450px) {
 	body {
 		font-size: 90%;
 	}
