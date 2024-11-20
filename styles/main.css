@@ -71,13 +71,13 @@ header img {
 }
 
 #nav_menu ul li a {
-	display: block;
 	text-align: center;
 	padding: 1em 0;
 	text-decoration: none;
 	background-color: #800000;
 	color: white;
 	font-weight: bold;
+	display: block;
 }
 
 #nav_menu a.current {
